@@ -24,18 +24,7 @@ Once the project is built, you can run the executable with:
 make run
 ````
 
-You will first be prompted to select the model:
-
-```
-Choose the model to run:
-  1: Mixed Darcy Problem
-  2: Multipoint Mixed Darcy Problem
-  3: Mixed Elasticity Problem
-  4: Multipoint Mixed Elasticity Problem
-  5: Mixed Biot Problem
-```
-
-After selecting a model, you will be asked to specify the dimension (`2d` or `3d`).
+You will first be prompted to select the model. After selecting a model, you will be asked to specify the dimension (`2D` or `3D`).
 
 ### Parameter Files
 
@@ -44,7 +33,7 @@ The parameter files (`.prm`) located in the `Code` directory define the simulati
 * Grid types
 * Mesh refinements
 * Boundary and initial conditions
-* Physical parameter fields
+* Physical parameters
 * Exact solutions (for verification)
 
 You can modify these files to run different problems or to reproduce the test cases presented in **Chapters 3–7** of the thesis.
