@@ -12,9 +12,6 @@ This code is written in C++ and uses version `9.5.1` of the [deal.II finite elem
 
 🔗 Official download page: [https://www.dealii.org/download.html](https://www.dealii.org/download.html)
 
-Here is a polished and well-structured version of your section:
-
-````markdown
 ## Notes on Running the Experiments
 
 The `Code` folder contains the main source files needed to run the simulations using deal.II.
@@ -69,12 +66,6 @@ You can modify these files to run different problems or to reproduce the test ca
 ---
 
 These changes allow you to reproduce the results shown in the thesis by simply rerunning the executable with the appropriate configuration.
-
-```
-
-Let me know if you'd like to add instructions for automating the replacement of files or managing experiments with version control.
-```
-
 
 
 
