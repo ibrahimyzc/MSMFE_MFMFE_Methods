@@ -46,6 +46,7 @@ You can modify these files to run different problems or to reproduce the test ca
 
   * `parameters_elasticity.prm`
   * `elasticity_mfe.cpp`
+
     in the `Code` directory with the versions provided in that folder.
 
 These changes allow you to reproduce the results shown in the thesis by simply rerunning the executable with the appropriate configuration.
