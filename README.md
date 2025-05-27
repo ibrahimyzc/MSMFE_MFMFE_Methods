@@ -6,11 +6,12 @@ This repository contains the source code for the numerical experiments conducted
 - **Ilona Ambartsumyan**, **Eldar Khattatov** (2016–2020)  
 - **Ibrahim Yazici** (2023–2025)
 
-## Install deal.II
+## Installing deal.II
 
-This code is written in C++ using the [deal.II finite element library](https://www.dealii.org/) version `9.5.1`. 
+This code is written in C++ and uses version `9.5.1` of the [deal.II finite element library](https://www.dealii.org/).
 
-Official download page: [https://www.dealii.org/download.html](https://www.dealii.org/download.html).
+🔗 Official download page: [https://www.dealii.org/download.html](https://www.dealii.org/download.html)
+
 
 
 
