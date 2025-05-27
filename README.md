@@ -49,7 +49,7 @@ You can modify these files to explore different problems, or use them as provide
 
     in the `Code` directory with the versions provided in that folder.
 
-These changes allow you to reproduce the results shown in the thesis by simply rerunning the executable with the appropriate configuration.
+These changes allow you to reproduce the results shown in the thesis by rerunning the executable with the appropriate configuration.
 
 
 
