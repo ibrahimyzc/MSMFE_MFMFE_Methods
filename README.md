@@ -11,9 +11,8 @@ This repository contains the source code for the numerical experiments conducted
 
 ## Dependencies
 
-This code is written in C++ using the [deal.II finite element library](https://www.dealii.org/).
+This code is written in C++ using the [deal.II finite element library](https://www.dealii.org/) version ** `9.5.1`.
 
-- **deal.II version used:** `9.5`
 
 ### Install deal.II
 
