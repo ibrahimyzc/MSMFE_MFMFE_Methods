@@ -32,7 +32,7 @@ The parameter files (`.prm`) located in the `Code` directory define the simulati
 * Physical parameters
 * Exact solutions (for verification)
 
-You can modify these files to explore different problems, or use them as provided to reproduce the test cases presented in **Chapters 3–7** of the thesis.
+You can modify these files to explore different problems, or use them as provided to reproduce the test cases presented in **Chapters 3–6** of the thesis.
 
 ### Chapter-Specific Instructions
 
