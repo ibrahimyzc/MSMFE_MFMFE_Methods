@@ -10,7 +10,7 @@ This repository contains the source code for the numerical experiments conducted
 
 This code is written in C++ and uses version `9.5.1` of the [deal.II finite element library](https://www.dealii.org/).
 
-🔗 Official download page: [https://www.dealii.org/download.html](https://www.dealii.org/download.html)
+Official download page: [https://www.dealii.org/download.html](https://www.dealii.org/download.html)
 
 ## Notes on Running the Experiments
 
