@@ -18,9 +18,7 @@ The `Code` folder contains the main source files needed to run the simulations u
 
 ### Running the Program
 
-Once the project is built, you can run the executable with `make run`.
-
-You will first be prompted to select the model. After selecting a model, you will be asked to specify the dimension (`2D` or `3D`).
+Once the project is built and the executable is run, you will first be prompted to select a model. After that, you will be asked to specify the dimension (`2D` or `3D`).
 
 ### Parameter Files
 
